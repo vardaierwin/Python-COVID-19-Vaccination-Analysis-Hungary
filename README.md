@@ -1,4 +1,5 @@
-🦠 COVID-19 Vaccination Analysis – Hungary 🇭🇺
+🦠 COVID-19 Vaccination Analysis – Hungary
+
 📘 Project Overview
 
 This project analyzes COVID-19 vaccination trends in Hungary using Python.
